@@ -1,0 +1,129 @@
+{
+	"main": {
+		"name": "Oshadha Shiro",
+		"occupation": "Founder of TECHforGEEKS",
+		"description": "I eat, sleep and breathe React",
+		"image": "profilepic.jpg",
+		"bio": "Hi there! I am Oshadha! You might also know me as TECHforGEEKS. I've been coding for over 1 and half years now. Now I am 12 years old, I started coding when I am 11 years old. I live in Sri Lanka. My school is Nalanda College. I am the Founder of TECHforGEEKS. In YouTube Im doing Programming tutorials in Sinhala. My goal is to share my knowledge with people. The reason why I am doing my tutorials in sinhala is There are millions of resources to learn in English, But there are only few resources to learn in Sinhala.",
+		"contactmessage": "Get in touch with me to be a part of the TECHforGEEKS!",
+		"email": "shirokumara49@gmail.com",
+		"phone": "+94 076 6810 433",
+		"address": {
+			"country": "Sri Lanka",
+			"street": "73/A Epitahawaththa , Batakaththara",
+			"city": "Piliyandala",
+			"state": "Western Province",
+			"zip": "10300"
+		},
+		"website": "https://www.papareact.com/course",
+		"resumedownload": "https://oshadhashiro.netlify.app/",
+		"social": [
+			{
+				"name": "youtube",
+				"url": "https://www.youtube.com/channel/UCLIxBIcAnh0NI95x9VB7-hg",
+				"className": "fa fa-youtube"
+			},
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100076201639909",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/oshadha-shiro-7071aa227/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/techforgeeks49/",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/TECHforGEEKS",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "My Programming Language Proficiency",
+		"education": [
+			{
+				"school": "Nalanda College, Colombo-10",
+				"degree": "",
+				"graduated": "Not Graduated yet",
+				"description": "Learning in Grade 7"
+			}
+		],
+		"work": [
+			{
+				"company": "TECHforGEEKS",
+				"title": "Founder",
+				"years": "May 2021 - Present",
+				"description": "Sharing my knowledge in sinhala"
+			}
+		],
+		"skills": [
+			{
+				"name": "ReactJs",
+				"level": "55%"
+			},
+			{
+				"name": "Python",
+				"level": "45%"
+			},
+			{
+				"name": "Git",
+				"level": "65%"
+			},
+			{
+				"name": "JavaScript",
+				"level": "80%"
+			},
+			{
+				"name": "Web Development",
+				"level": "50%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Netflix Clone (React JS)",
+				"category": "",
+				"image": "netflix.png",
+				"url": "https://netflix-clone-e794c.web.app/"
+			},
+			{
+				"title": "Spotify-Clone (React JS)",
+				"category": "",
+				"image": "spotify.png",
+				"url": "https://spotify-clone-6a31a.web.app/"
+			},
+			{
+				"title": "Crypto-Punk Clone (React JS + Web 3.0)",
+				"category": "",
+				"image": "cypto-punk-clone.png",
+				"url": "https://github.com/TECHforGEEKS/Cryptopunk-Clone"
+			},
+			{
+				"title": "For more works",
+				"category": "",
+				"image": "portfolio.png",
+				"url": "https://oshadhashiro.netlify.app/"
+			}
+		]
+	},
+	"testimonials": {
+		"testimonials": [
+			{
+				"text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+				"user": "Jorge Fouto"
+			},
+			{
+				"text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+				"user": "Adam Curtis"
+			}
+		]
+	}
+}
